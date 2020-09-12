@@ -1,0 +1,4736 @@
+fileFormatVersion: 2
+guid: 0da321047ac58d04e85132edc92935ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2936860766247229175
+    second: GraySayHello_0
+  - first:
+      213: 3666508036143360403
+    second: GraySayHello_1
+  - first:
+      213: 351062568526462470
+    second: GraySayHello_2
+  - first:
+      213: -3249739850175241410
+    second: GraySayHello_3
+  - first:
+      213: 4537199474345436242
+    second: GraySayHello_4
+  - first:
+      213: -3982924123444404971
+    second: GraySayHello_5
+  - first:
+      213: -5431012886346531826
+    second: GraySayHello_6
+  - first:
+      213: -6396014342893333417
+    second: GraySayHello_7
+  - first:
+      213: 3871332298756188771
+    second: GraySayHello_8
+  - first:
+      213: 2030372814612726558
+    second: GraySayHello_9
+  - first:
+      213: 8799585274823107287
+    second: GraySayHello_10
+  - first:
+      213: -8564272791334598967
+    second: GraySayHello_11
+  - first:
+      213: 9072764609505604473
+    second: GraySayHello_12
+  - first:
+      213: -6968337685902514806
+    second: GraySayHello_13
+  - first:
+      213: -6092372882722414610
+    second: GraySayHello_14
+  - first:
+      213: -7899265094222756390
+    second: GraySayHello_15
+  - first:
+      213: -8382304894109250057
+    second: GraySayHello_16
+  - first:
+      213: 4185290797224682378
+    second: GraySayHello_17
+  - first:
+      213: -2778294613589810668
+    second: GraySayHello_18
+  - first:
+      213: 4222868750289008011
+    second: GraySayHello_19
+  - first:
+      213: -3726316184832496850
+    second: GraySayHello_20
+  - first:
+      213: 8196651047708231534
+    second: GraySayHello_21
+  - first:
+      213: -1917850772152063405
+    second: GraySayHello_22
+  - first:
+      213: -1451312116954269201
+    second: GraySayHello_23
+  - first:
+      213: 3935484478607446711
+    second: GraySayHello_24
+  - first:
+      213: -1876076266614514469
+    second: GraySayHello_25
+  - first:
+      213: 2927306794890889763
+    second: GraySayHello_26
+  - first:
+      213: -2073351333383707722
+    second: GraySayHello_27
+  - first:
+      213: -8180298102637372266
+    second: GraySayHello_28
+  - first:
+      213: 3079308011215935181
+    second: GraySayHello_29
+  - first:
+      213: 1901777706062152612
+    second: GraySayHello_30
+  - first:
+      213: -485831316014913022
+    second: GraySayHello_31
+  - first:
+      213: 7411042457109543038
+    second: GraySayHello_32
+  - first:
+      213: -4015900772934892814
+    second: GraySayHello_33
+  - first:
+      213: 3664102371417512314
+    second: GraySayHello_34
+  - first:
+      213: -5365414123538443917
+    second: GraySayHello_35
+  - first:
+      213: 7533306753624968548
+    second: GraySayHello_36
+  - first:
+      213: -8564371260399989924
+    second: GraySayHello_37
+  - first:
+      213: 3571356180735281566
+    second: GraySayHello_38
+  - first:
+      213: -3409372301140912471
+    second: GraySayHello_39
+  - first:
+      213: -5280719054841761149
+    second: GraySayHello_40
+  - first:
+      213: 1641477256297376455
+    second: GraySayHello_41
+  - first:
+      213: -6533299043753301626
+    second: GraySayHello_42
+  - first:
+      213: -8412148332528933946
+    second: GraySayHello_43
+  - first:
+      213: 8725882981663602925
+    second: GraySayHello_44
+  - first:
+      213: -7708309550880130554
+    second: GraySayHello_45
+  - first:
+      213: -4058475992106904477
+    second: GraySayHello_46
+  - first:
+      213: 3801391546462777322
+    second: GraySayHello_47
+  - first:
+      213: -3900187407673263019
+    second: GraySayHello_48
+  - first:
+      213: 6537884995444809781
+    second: GraySayHello_49
+  - first:
+      213: 4977624342172957232
+    second: GraySayHello_50
+  - first:
+      213: 3630486364514367644
+    second: GraySayHello_51
+  - first:
+      213: 3659413467962662958
+    second: GraySayHello_52
+  - first:
+      213: 1740727716892546508
+    second: GraySayHello_53
+  - first:
+      213: 8032375579616113770
+    second: GraySayHello_54
+  - first:
+      213: -17047151414373727
+    second: GraySayHello_55
+  - first:
+      213: -7150965939398913999
+    second: GraySayHello_56
+  - first:
+      213: -6486038177106205861
+    second: GraySayHello_57
+  - first:
+      213: 2617990310547238740
+    second: GraySayHello_58
+  - first:
+      213: 4168595130875177134
+    second: GraySayHello_59
+  - first:
+      213: -588920982960000041
+    second: GraySayHello_60
+  - first:
+      213: -3065623207681516658
+    second: GraySayHello_61
+  - first:
+      213: -8104697909811126411
+    second: GraySayHello_62
+  - first:
+      213: -3083804654451359923
+    second: GraySayHello_63
+  - first:
+      213: 4366417205961771928
+    second: GraySayHello_64
+  - first:
+      213: 5257644445754885999
+    second: GraySayHello_65
+  - first:
+      213: -7458865809077766640
+    second: GraySayHello_66
+  - first:
+      213: -765169696988017259
+    second: GraySayHello_67
+  - first:
+      213: -4230126175082856421
+    second: GraySayHello_68
+  - first:
+      213: 4306948753763555609
+    second: GraySayHello_69
+  - first:
+      213: -7127897892809232581
+    second: GraySayHello_70
+  - first:
+      213: -5491910845051485890
+    second: GraySayHello_71
+  - first:
+      213: 8317793066723684441
+    second: GraySayHello_72
+  - first:
+      213: -4312153746966951188
+    second: GraySayHello_73
+  - first:
+      213: 6147058373136477581
+    second: GraySayHello_74
+  - first:
+      213: 5112807730575743318
+    second: GraySayHello_75
+  - first:
+      213: -7174597635439240988
+    second: GraySayHello_76
+  - first:
+      213: 5337022172684423887
+    second: GraySayHello_77
+  - first:
+      213: 2029213109165915903
+    second: GraySayHello_78
+  - first:
+      213: -4340923653591375510
+    second: GraySayHello_79
+  - first:
+      213: -4545083635246183084
+    second: GraySayHello_80
+  - first:
+      213: -221623948962815116
+    second: GraySayHello_81
+  - first:
+      213: -5265982073290063236
+    second: GraySayHello_82
+  - first:
+      213: 2356603668261925155
+    second: GraySayHello_83
+  - first:
+      213: 51387461040352841
+    second: GraySayHello_84
+  - first:
+      213: 5144548884109511809
+    second: GraySayHello_85
+  - first:
+      213: 1386945872764837072
+    second: GraySayHello_86
+  - first:
+      213: 1060854888877533437
+    second: GraySayHello_87
+  - first:
+      213: 5734694708244015926
+    second: GraySayHello_88
+  - first:
+      213: -2160842805270218926
+    second: GraySayHello_89
+  - first:
+      213: 3952356159367098939
+    second: GraySayHello_90
+  - first:
+      213: 2446278032219961023
+    second: GraySayHello_91
+  - first:
+      213: -8485120962854607284
+    second: GraySayHello_92
+  - first:
+      213: 3622776654745446733
+    second: GraySayHello_93
+  - first:
+      213: -5520973434480732851
+    second: GraySayHello_94
+  - first:
+      213: 250839475285112219
+    second: GraySayHello_95
+  - first:
+      213: -6010477965551765244
+    second: GraySayHello_96
+  - first:
+      213: -4554267943038934910
+    second: GraySayHello_97
+  - first:
+      213: -193856913818373850
+    second: GraySayHello_98
+  - first:
+      213: 134747315462701420
+    second: GraySayHello_99
+  - first:
+      213: 8645546016042165046
+    second: GraySayHello_100
+  - first:
+      213: -6991275064493240514
+    second: GraySayHello_101
+  - first:
+      213: 9135002621774096468
+    second: GraySayHello_102
+  - first:
+      213: -1848967034950665140
+    second: GraySayHello_103
+  - first:
+      213: -1272275090338275753
+    second: GraySayHello_104
+  - first:
+      213: -4572398377546455759
+    second: GraySayHello_105
+  - first:
+      213: 2693697412640996817
+    second: GraySayHello_106
+  - first:
+      213: -101609403074217878
+    second: GraySayHello_107
+  - first:
+      213: -7243722758735896271
+    second: GraySayHello_108
+  - first:
+      213: 1747353946389945570
+    second: GraySayHello_109
+  - first:
+      213: -4671126126588297729
+    second: GraySayHello_110
+  - first:
+      213: 7420123528179122940
+    second: GraySayHello_111
+  - first:
+      213: -583487910574198967
+    second: GraySayHello_112
+  - first:
+      213: -4272457079505837431
+    second: GraySayHello_113
+  - first:
+      213: 5201485555974677995
+    second: GraySayHello_114
+  - first:
+      213: -2350661116763631072
+    second: GraySayHello_115
+  - first:
+      213: -8381852109888577838
+    second: GraySayHello_116
+  - first:
+      213: 9080141931742473142
+    second: GraySayHello_117
+  - first:
+      213: -5704155489430906125
+    second: GraySayHello_118
+  - first:
+      213: 5306713552554299461
+    second: GraySayHello_119
+  - first:
+      213: 7690194083091304603
+    second: GraySayHello_120
+  - first:
+      213: 1367251560447817929
+    second: GraySayHello_121
+  - first:
+      213: -4332102888160409900
+    second: GraySayHello_122
+  - first:
+      213: -1768774987471416872
+    second: GraySayHello_123
+  - first:
+      213: 51763520006785762
+    second: GraySayHello_124
+  - first:
+      213: -2207900121210168828
+    second: GraySayHello_125
+  - first:
+      213: 591776832251253914
+    second: GraySayHello_126
+  - first:
+      213: 7819570382876035987
+    second: GraySayHello_127
+  - first:
+      213: -6172480379649654719
+    second: GraySayHello_128
+  - first:
+      213: 5538770342670287196
+    second: GraySayHello_129
+  - first:
+      213: -8938587146812047668
+    second: GraySayHello_130
+  - first:
+      213: -5723181298464185496
+    second: GraySayHello_131
+  - first:
+      213: -5645640367464695541
+    second: GraySayHello_132
+  - first:
+      213: -3271762106056763092
+    second: GraySayHello_133
+  - first:
+      213: -1294670872793605276
+    second: GraySayHello_134
+  - first:
+      213: -8401264564347598368
+    second: GraySayHello_135
+  - first:
+      213: -5354205258579212174
+    second: GraySayHello_136
+  - first:
+      213: 695795883084899315
+    second: GraySayHello_137
+  - first:
+      213: 1135878646292426129
+    second: GraySayHello_138
+  - first:
+      213: 5008789092648743812
+    second: GraySayHello_139
+  - first:
+      213: 3001280520956717497
+    second: GraySayHello_140
+  - first:
+      213: -4568318518436398111
+    second: GraySayHello_141
+  - first:
+      213: -8660525307740150194
+    second: GraySayHello_142
+  - first:
+      213: 5816018321936282775
+    second: GraySayHello_143
+  - first:
+      213: 4236898736405041909
+    second: GraySayHello_144
+  - first:
+      213: 2085309757007529244
+    second: GraySayHello_145
+  - first:
+      213: -2854550936192040512
+    second: GraySayHello_146
+  - first:
+      213: 7513220273611236031
+    second: GraySayHello_147
+  - first:
+      213: -4986720529782413174
+    second: GraySayHello_148
+  - first:
+      213: 8839195272951871442
+    second: GraySayHello_149
+  - first:
+      213: 5491740340158492969
+    second: GraySayHello_150
+  - first:
+      213: 9188491354414678166
+    second: GraySayHello_151
+  - first:
+      213: 1207636570705670155
+    second: GraySayHello_152
+  - first:
+      213: 7644480856039928994
+    second: GraySayHello_153
+  - first:
+      213: -8751394086115255588
+    second: GraySayHello_154
+  - first:
+      213: 5363986745638164931
+    second: GraySayHello_155
+  - first:
+      213: -3084596589488922899
+    second: GraySayHello_156
+  - first:
+      213: -2060688939191842468
+    second: GraySayHello_157
+  - first:
+      213: -2220502672449589412
+    second: GraySayHello_158
+  - first:
+      213: 3513697660640096452
+    second: GraySayHello_159
+  - first:
+      213: 2866333470900572495
+    second: GraySayHello_160
+  - first:
+      213: 703943209539466378
+    second: GraySayHello_161
+  - first:
+      213: 3123387177141886450
+    second: GraySayHello_162
+  - first:
+      213: 4289508166970406172
+    second: GraySayHello_163
+  - first:
+      213: 8677297830917390938
+    second: GraySayHello_164
+  - first:
+      213: 6123852069508157311
+    second: GraySayHello_165
+  - first:
+      213: 248646346763726843
+    second: GraySayHello_166
+  - first:
+      213: -6981598277239809311
+    second: GraySayHello_167
+  - first:
+      213: 6475015870969190361
+    second: GraySayHello_168
+  - first:
+      213: 793299642945480720
+    second: GraySayHello_169
+  - first:
+      213: -5614087514121090966
+    second: GraySayHello_170
+  - first:
+      213: -5095700962064760418
+    second: GraySayHello_171
+  - first:
+      213: 5033127990592146812
+    second: GraySayHello_172
+  - first:
+      213: 4187020749225765789
+    second: GraySayHello_173
+  - first:
+      213: -7550669746264285458
+    second: GraySayHello_174
+  - first:
+      213: 295993952880499300
+    second: GraySayHello_175
+  - first:
+      213: 6745091905139432137
+    second: GraySayHello_176
+  - first:
+      213: 336883062490234213
+    second: GraySayHello_177
+  - first:
+      213: 6947791036020443596
+    second: GraySayHello_178
+  - first:
+      213: -7266367689549119056
+    second: GraySayHello_179
+  - first:
+      213: 2821777179384411012
+    second: GraySayHello_180
+  - first:
+      213: -4838671764928974540
+    second: GraySayHello_181
+  - first:
+      213: -8129062870685434801
+    second: GraySayHello_182
+  - first:
+      213: -292158806511214099
+    second: GraySayHello_183
+  - first:
+      213: -4129074879497225017
+    second: GraySayHello_184
+  - first:
+      213: -2774488043863100501
+    second: GraySayHello_185
+  - first:
+      213: 5134095787392275912
+    second: GraySayHello_186
+  - first:
+      213: -4766195658694608119
+    second: GraySayHello_187
+  - first:
+      213: -4397506203713745261
+    second: GraySayHello_188
+  - first:
+      213: 6420560455019274031
+    second: GraySayHello_189
+  - first:
+      213: 4029616325747778022
+    second: GraySayHello_190
+  - first:
+      213: 900252187787307887
+    second: GraySayHello_191
+  - first:
+      213: -492596887681242229
+    second: GraySayHello_192
+  - first:
+      213: 8199257779654432148
+    second: GraySayHello_193
+  - first:
+      213: 4177586294268893634
+    second: GraySayHello_194
+  - first:
+      213: -7818221928173704775
+    second: GraySayHello_195
+  - first:
+      213: -4202891199736997818
+    second: GraySayHello_196
+  - first:
+      213: -2068986332947102831
+    second: GraySayHello_197
+  - first:
+      213: -4407033980169235688
+    second: GraySayHello_198
+  - first:
+      213: -7667945771363856191
+    second: GraySayHello_199
+  - first:
+      213: -4259573983033427058
+    second: GraySayHello_200
+  - first:
+      213: 7934080440969649872
+    second: GraySayHello_201
+  - first:
+      213: 4082769384529404232
+    second: GraySayHello_202
+  - first:
+      213: -7382327147547107298
+    second: GraySayHello_203
+  - first:
+      213: -3475839347198888742
+    second: GraySayHello_204
+  - first:
+      213: 6663165182363206483
+    second: GraySayHello_205
+  - first:
+      213: -1929497025234344221
+    second: GraySayHello_206
+  - first:
+      213: -1341335032520932274
+    second: GraySayHello_207
+  - first:
+      213: -6426048230814318392
+    second: GraySayHello_208
+  - first:
+      213: -460694765429635683
+    second: GraySayHello_209
+  - first:
+      213: 5875842757140124049
+    second: GraySayHello_210
+  - first:
+      213: -6039657005157545190
+    second: GraySayHello_211
+  - first:
+      213: 3478336135956049765
+    second: GraySayHello_212
+  - first:
+      213: 3302571304920855245
+    second: GraySayHello_213
+  - first:
+      213: 1487005927490418275
+    second: GraySayHello_214
+  - first:
+      213: 6827586081575501311
+    second: GraySayHello_215
+  - first:
+      213: 7072181465224980515
+    second: GraySayHello_216
+  - first:
+      213: -7726764560945647418
+    second: GraySayHello_217
+  - first:
+      213: 1445887306385119272
+    second: GraySayHello_218
+  - first:
+      213: 1512959945046668704
+    second: GraySayHello_219
+  - first:
+      213: -7104298490030943760
+    second: GraySayHello_220
+  - first:
+      213: 8796372091249627294
+    second: GraySayHello_221
+  - first:
+      213: -7815241054792061272
+    second: GraySayHello_222
+  - first:
+      213: -8413038444968675547
+    second: GraySayHello_223
+  - first:
+      213: -4248379625590582107
+    second: GraySayHello_224
+  - first:
+      213: -7843205514618221009
+    second: GraySayHello_225
+  - first:
+      213: 1903747472335220101
+    second: GraySayHello_226
+  - first:
+      213: 2478791782343267971
+    second: GraySayHello_227
+  - first:
+      213: 2311504824009633132
+    second: GraySayHello_228
+  - first:
+      213: 725198517095194471
+    second: GraySayHello_229
+  - first:
+      213: -8343979099608233204
+    second: GraySayHello_230
+  - first:
+      213: 9222426779531684922
+    second: GraySayHello_231
+  - first:
+      213: -4176410934559410222
+    second: GraySayHello_232
+  - first:
+      213: -6211519072974404138
+    second: GraySayHello_233
+  - first:
+      213: -2961655039987325770
+    second: GraySayHello_234
+  - first:
+      213: 1186016161350083975
+    second: GraySayHello_235
+  - first:
+      213: 2269547296323401085
+    second: GraySayHello_236
+  - first:
+      213: 4079134295576502786
+    second: GraySayHello_237
+  - first:
+      213: -7129444462196733345
+    second: GraySayHello_238
+  - first:
+      213: 3021382749633479031
+    second: GraySayHello_239
+  - first:
+      213: -1075370608002153191
+    second: GraySayHello_240
+  - first:
+      213: -2381341825776662327
+    second: GraySayHello_241
+  - first:
+      213: 4261911464756244336
+    second: GraySayHello_242
+  - first:
+      213: 625888110323649821
+    second: GraySayHello_243
+  - first:
+      213: -5562823128549886953
+    second: GraySayHello_244
+  - first:
+      213: 165961761359864651
+    second: GraySayHello_245
+  - first:
+      213: 4444422838960118158
+    second: GraySayHello_246
+  - first:
+      213: -5839075668117285842
+    second: GraySayHello_247
+  - first:
+      213: 8006229530529912959
+    second: GraySayHello_248
+  - first:
+      213: -1880484448188165596
+    second: GraySayHello_249
+  - first:
+      213: 1285403773083422428
+    second: GraySayHello_250
+  - first:
+      213: -4311259591101386497
+    second: GraySayHello_251
+  - first:
+      213: 4475576181293471253
+    second: GraySayHello_252
+  - first:
+      213: 607932901027594091
+    second: GraySayHello_253
+  - first:
+      213: 4950252173705602735
+    second: GraySayHello_254
+  - first:
+      213: -3402100469782604260
+    second: GraySayHello_255
+  - first:
+      213: -1218854695867429093
+    second: GraySayHello_256
+  - first:
+      213: -1175082655987130303
+    second: GraySayHello_257
+  - first:
+      213: 3796190759379291981
+    second: GraySayHello_258
+  - first:
+      213: -444059908485350009
+    second: GraySayHello_259
+  - first:
+      213: -3216829440474302520
+    second: GraySayHello_260
+  - first:
+      213: 6192642793045156159
+    second: GraySayHello_261
+  - first:
+      213: -9016014201285632043
+    second: GraySayHello_262
+  - first:
+      213: -5744345465973694841
+    second: GraySayHello_263
+  - first:
+      213: 1797958183039115756
+    second: GraySayHello_264
+  - first:
+      213: 8950274249048583602
+    second: GraySayHello_265
+  - first:
+      213: -8165744502083837088
+    second: GraySayHello_266
+  - first:
+      213: -3048594176533400366
+    second: GraySayHello_267
+  - first:
+      213: -6767560135454053288
+    second: GraySayHello_268
+  - first:
+      213: -2676287206442213663
+    second: GraySayHello_269
+  - first:
+      213: -4865607875820748661
+    second: GraySayHello_270
+  - first:
+      213: 5090148266816223151
+    second: GraySayHello_271
+  - first:
+      213: -1946336364409820698
+    second: GraySayHello_272
+  - first:
+      213: 5764705897460592201
+    second: GraySayHello_273
+  - first:
+      213: 6213234713983385593
+    second: GraySayHello_274
+  - first:
+      213: 3389839569218786023
+    second: GraySayHello_275
+  - first:
+      213: -4758747846152185299
+    second: GraySayHello_276
+  - first:
+      213: 7872610980122777917
+    second: GraySayHello_277
+  - first:
+      213: -6054948633867731469
+    second: GraySayHello_278
+  - first:
+      213: -4260951958831044315
+    second: GraySayHello_279
+  - first:
+      213: -3799809623503465716
+    second: GraySayHello_280
+  - first:
+      213: -3001578296160780634
+    second: GraySayHello_281
+  - first:
+      213: 2446198852438406360
+    second: GraySayHello_282
+  - first:
+      213: 131751150938135474
+    second: GraySayHello_283
+  - first:
+      213: -7448402669879219932
+    second: GraySayHello_284
+  - first:
+      213: 81564627955630502
+    second: GraySayHello_285
+  - first:
+      213: -9212856079319678930
+    second: GraySayHello_286
+  - first:
+      213: -5010845949411954647
+    second: GraySayHello_287
+  - first:
+      213: -7429457952153399220
+    second: GraySayHello_288
+  - first:
+      213: 5267945119041480783
+    second: GraySayHello_289
+  - first:
+      213: 4196958395964440821
+    second: GraySayHello_290
+  - first:
+      213: -6872555284398091798
+    second: GraySayHello_291
+  - first:
+      213: 4160493962049038901
+    second: GraySayHello_292
+  - first:
+      213: 3438238508023105773
+    second: GraySayHello_293
+  - first:
+      213: -8713853055838677716
+    second: GraySayHello_294
+  - first:
+      213: -6560778891312885383
+    second: GraySayHello_295
+  - first:
+      213: 8540323940567594847
+    second: GraySayHello_296
+  - first:
+      213: -4870653827366669561
+    second: GraySayHello_297
+  - first:
+      213: -4202005523884545033
+    second: GraySayHello_298
+  - first:
+      213: 5964235949724569046
+    second: GraySayHello_299
+  - first:
+      213: 1448366298994348119
+    second: GraySayHello_300
+  - first:
+      213: 8371922120925131274
+    second: GraySayHello_301
+  - first:
+      213: 582193201958869812
+    second: GraySayHello_302
+  - first:
+      213: 5858608133848189395
+    second: GraySayHello_303
+  - first:
+      213: 443388412023443746
+    second: GraySayHello_304
+  - first:
+      213: -7228986215287495544
+    second: GraySayHello_305
+  - first:
+      213: 852722730555313863
+    second: GraySayHello_306
+  - first:
+      213: 8360192849619368191
+    second: GraySayHello_307
+  - first:
+      213: 64229649098620908
+    second: GraySayHello_308
+  - first:
+      213: -3457379397059831640
+    second: GraySayHello_309
+  - first:
+      213: 5935624596298643880
+    second: GraySayHello_310
+  - first:
+      213: -2924712794034242309
+    second: GraySayHello_311
+  - first:
+      213: 7134356020102978
+    second: GraySayHello_312
+  - first:
+      213: 8429401883504343801
+    second: GraySayHello_313
+  - first:
+      213: -6292237681458932500
+    second: GraySayHello_314
+  - first:
+      213: -124560732010418667
+    second: GraySayHello_315
+  - first:
+      213: 8671465282470064765
+    second: GraySayHello_316
+  - first:
+      213: 8040985765553110997
+    second: GraySayHello_317
+  - first:
+      213: -8701473211205668405
+    second: GraySayHello_318
+  - first:
+      213: -3871619024582118070
+    second: GraySayHello_319
+  - first:
+      213: -1174359516005859249
+    second: GraySayHello_320
+  - first:
+      213: -7197481747335493559
+    second: GraySayHello_321
+  - first:
+      213: -9101537931794461493
+    second: GraySayHello_322
+  - first:
+      213: -6685241991105993445
+    second: GraySayHello_323
+  - first:
+      213: -6073740150824042090
+    second: GraySayHello_324
+  - first:
+      213: 5111178186066641285
+    second: GraySayHello_325
+  - first:
+      213: 2265930402766004056
+    second: GraySayHello_326
+  - first:
+      213: 5959859411794069476
+    second: GraySayHello_327
+  - first:
+      213: -101136413520881833
+    second: GraySayHello_328
+  - first:
+      213: -999664311101230456
+    second: GraySayHello_329
+  - first:
+      213: -1139240223817779577
+    second: GraySayHello_330
+  - first:
+      213: -2373199832431845617
+    second: GraySayHello_331
+  - first:
+      213: 4620655923448621275
+    second: GraySayHello_332
+  - first:
+      213: 8133525204847352812
+    second: GraySayHello_333
+  - first:
+      213: -4651896917498597642
+    second: GraySayHello_334
+  - first:
+      213: -4140021989372507913
+    second: GraySayHello_335
+  - first:
+      213: -8867982052824567995
+    second: GraySayHello_336
+  - first:
+      213: -3394474464238959026
+    second: GraySayHello_337
+  - first:
+      213: 7889113592530416045
+    second: GraySayHello_338
+  - first:
+      213: -6547785598232365423
+    second: GraySayHello_339
+  - first:
+      213: 4761931907290835590
+    second: GraySayHello_340
+  - first:
+      213: 2954430595690618375
+    second: GraySayHello_341
+  - first:
+      213: -101522613816483357
+    second: GraySayHello_342
+  - first:
+      213: -1460842116660390652
+    second: GraySayHello_343
+  - first:
+      213: -7397722494008852105
+    second: GraySayHello_344
+  - first:
+      213: -258129621776241220
+    second: GraySayHello_345
+  - first:
+      213: 1901406823480134905
+    second: GraySayHello_346
+  - first:
+      213: 3228985167455057384
+    second: GraySayHello_347
+  - first:
+      213: 5328496399151041940
+    second: GraySayHello_348
+  - first:
+      213: -7234713313971800578
+    second: GraySayHello_349
+  - first:
+      213: -4977291161504504415
+    second: GraySayHello_350
+  - first:
+      213: 1202800925954406917
+    second: GraySayHello_351
+  - first:
+      213: -4733004401463160270
+    second: GraySayHello_352
+  - first:
+      213: -4675959777230950399
+    second: GraySayHello_353
+  - first:
+      213: 5143050791137797830
+    second: GraySayHello_354
+  - first:
+      213: -2939070075564028134
+    second: GraySayHello_355
+  - first:
+      213: -205354465358934574
+    second: GraySayHello_356
+  - first:
+      213: 7307711020867267907
+    second: GraySayHello_357
+  - first:
+      213: 7189073601242009078
+    second: GraySayHello_358
+  - first:
+      213: 6241516834634998306
+    second: GraySayHello_359
+  - first:
+      213: 8305576179009946267
+    second: GraySayHello_360
+  - first:
+      213: 5418443084497024622
+    second: GraySayHello_361
+  - first:
+      213: -2886000918552729632
+    second: GraySayHello_362
+  - first:
+      213: -5543954585596495413
+    second: GraySayHello_363
+  - first:
+      213: 2295896687466979875
+    second: GraySayHello_364
+  - first:
+      213: 1451855935850365121
+    second: GraySayHello_365
+  - first:
+      213: -7988409829062123698
+    second: GraySayHello_366
+  - first:
+      213: 8181553271311197725
+    second: GraySayHello_367
+  - first:
+      213: -4531350393454997133
+    second: GraySayHello_368
+  - first:
+      213: 4557509561592738446
+    second: GraySayHello_369
+  - first:
+      213: 3273973817363623417
+    second: GraySayHello_370
+  - first:
+      213: -1167186251351023005
+    second: GraySayHello_371
+  - first:
+      213: 4812487863410934219
+    second: GraySayHello_372
+  - first:
+      213: -5371284673254942638
+    second: GraySayHello_373
+  - first:
+      213: 5593547362520269461
+    second: GraySayHello_374
+  - first:
+      213: 2841298562856017646
+    second: GraySayHello_375
+  - first:
+      213: -3227372295373079950
+    second: GraySayHello_376
+  - first:
+      213: 8408980667527261870
+    second: GraySayHello_377
+  - first:
+      213: 8802748500132981069
+    second: GraySayHello_378
+  - first:
+      213: -2734277310602852595
+    second: GraySayHello_379
+  - first:
+      213: -1331719883729787950
+    second: GraySayHello_380
+  - first:
+      213: -2729110942518059032
+    second: GraySayHello_381
+  - first:
+      213: 1485467680762192226
+    second: GraySayHello_382
+  - first:
+      213: 490994744998684548
+    second: GraySayHello_383
+  - first:
+      213: -632271886611069031
+    second: GraySayHello_384
+  - first:
+      213: 4375694501722417067
+    second: GraySayHello_385
+  - first:
+      213: -5784917716924613169
+    second: GraySayHello_386
+  - first:
+      213: -933886352180355201
+    second: GraySayHello_387
+  - first:
+      213: -1201549688311568166
+    second: GraySayHello_388
+  - first:
+      213: -1418629025332917589
+    second: GraySayHello_389
+  - first:
+      213: 2244561133318894725
+    second: GraySayHello_390
+  - first:
+      213: -3808643366815614672
+    second: GraySayHello_391
+  - first:
+      213: -6598294357317547160
+    second: GraySayHello_392
+  - first:
+      213: -6932470820607836560
+    second: GraySayHello_393
+  - first:
+      213: -6680525428412963126
+    second: GraySayHello_394
+  - first:
+      213: -9167041116320631475
+    second: GraySayHello_395
+  - first:
+      213: -3859077677812784274
+    second: GraySayHello_396
+  - first:
+      213: -5779598463602186813
+    second: GraySayHello_397
+  - first:
+      213: 5415807087661290362
+    second: GraySayHello_398
+  - first:
+      213: -3931054535987584058
+    second: GraySayHello_399
+  - first:
+      213: 6737972469798825547
+    second: GraySayHello_400
+  - first:
+      213: 1599705187453433405
+    second: GraySayHello_401
+  - first:
+      213: -2526714817091000513
+    second: GraySayHello_402
+  - first:
+      213: -8952098491001513978
+    second: GraySayHello_403
+  - first:
+      213: 9116628551593082463
+    second: GraySayHello_404
+  - first:
+      213: 2229796546998218169
+    second: GraySayHello_405
+  - first:
+      213: 476733179896515222
+    second: GraySayHello_406
+  - first:
+      213: -2126941680259635508
+    second: GraySayHello_407
+  - first:
+      213: 5417702702053969688
+    second: GraySayHello_408
+  - first:
+      213: 4986895505639307114
+    second: GraySayHello_409
+  - first:
+      213: 4753287595240075236
+    second: GraySayHello_410
+  - first:
+      213: -1630128943784047312
+    second: GraySayHello_411
+  - first:
+      213: -2359990423914397491
+    second: GraySayHello_412
+  - first:
+      213: -6819292314450176532
+    second: GraySayHello_413
+  - first:
+      213: -7790900795478320255
+    second: GraySayHello_414
+  - first:
+      213: 783925799277704947
+    second: GraySayHello_415
+  - first:
+      213: 1251059884438189078
+    second: GraySayHello_416
+  - first:
+      213: 4173651149437211957
+    second: GraySayHello_417
+  - first:
+      213: -5910315115426228295
+    second: GraySayHello_418
+  - first:
+      213: 2719009272484636080
+    second: GraySayHello_419
+  - first:
+      213: 9218054589870353640
+    second: GraySayHello_420
+  - first:
+      213: 7631448258443595765
+    second: GraySayHello_421
+  - first:
+      213: -4378586229574691015
+    second: GraySayHello_422
+  - first:
+      213: 9058305013665440656
+    second: GraySayHello_423
+  - first:
+      213: 7612822453383008621
+    second: GraySayHello_424
+  - first:
+      213: -4805894116693429567
+    second: GraySayHello_425
+  - first:
+      213: -6010470759462589395
+    second: GraySayHello_426
+  - first:
+      213: -5684791557487468855
+    second: GraySayHello_427
+  - first:
+      213: 6722054570493539148
+    second: GraySayHello_428
+  - first:
+      213: 7136684209007953069
+    second: GraySayHello_429
+  - first:
+      213: 7977280074268303671
+    second: GraySayHello_430
+  - first:
+      213: 7602207101263695104
+    second: GraySayHello_431
+  - first:
+      213: 4200542600765995503
+    second: GraySayHello_432
+  - first:
+      213: -7947080946340685448
+    second: GraySayHello_433
+  - first:
+      213: 3062516219617777282
+    second: GraySayHello_434
+  - first:
+      213: 9212363841056767720
+    second: GraySayHello_435
+  - first:
+      213: -7425174740304241605
+    second: GraySayHello_436
+  - first:
+      213: 23037678568096192
+    second: GraySayHello_437
+  - first:
+      213: 5465392612699323890
+    second: GraySayHello_438
+  - first:
+      213: 5216578454993852212
+    second: GraySayHello_439
+  - first:
+      213: -4134241093261013329
+    second: GraySayHello_440
+  - first:
+      213: -4663328446721066771
+    second: GraySayHello_441
+  - first:
+      213: -6107057052486076612
+    second: GraySayHello_442
+  - first:
+      213: -6144310791785799953
+    second: GraySayHello_443
+  - first:
+      213: 3849327658278872499
+    second: GraySayHello_444
+  - first:
+      213: 9063619119594826690
+    second: GraySayHello_445
+  - first:
+      213: 2526427197444831326
+    second: GraySayHello_446
+  - first:
+      213: 8903663316524739562
+    second: GraySayHello_447
+  - first:
+      213: 585017344159155626
+    second: GraySayHello_448
+  - first:
+      213: -5602846661120313716
+    second: GraySayHello_449
+  - first:
+      213: 6905632818832805211
+    second: GraySayHello_450
+  - first:
+      213: 4134461683511870501
+    second: GraySayHello_451
+  - first:
+      213: 7970738458572164403
+    second: GraySayHello_452
+  - first:
+      213: 7202826738801983737
+    second: GraySayHello_453
+  - first:
+      213: -6276913446718184689
+    second: GraySayHello_454
+  - first:
+      213: 8145367921102016443
+    second: GraySayHello_455
+  - first:
+      213: 221223915408167840
+    second: GraySayHello_456
+  - first:
+      213: 5876993870985003850
+    second: GraySayHello_457
+  - first:
+      213: 4816093254035311691
+    second: GraySayHello_458
+  - first:
+      213: -1770294762506093385
+    second: GraySayHello_459
+  - first:
+      213: -4819501864547008801
+    second: GraySayHello_460
+  - first:
+      213: -7870677935355964937
+    second: GraySayHello_461
+  - first:
+      213: 1777417129655188736
+    second: GraySayHello_462
+  - first:
+      213: -2261801136372847741
+    second: GraySayHello_463
+  - first:
+      213: -5666704277320924315
+    second: GraySayHello_464
+  - first:
+      213: -6039559369832214263
+    second: GraySayHello_465
+  - first:
+      213: -1237299426137495349
+    second: GraySayHello_466
+  - first:
+      213: -7576511191182849806
+    second: GraySayHello_467
+  - first:
+      213: 7142906932482985019
+    second: GraySayHello_468
+  - first:
+      213: 7986258794683604374
+    second: GraySayHello_469
+  - first:
+      213: -3330760778575012284
+    second: GraySayHello_470
+  - first:
+      213: 297346986937399495
+    second: GraySayHello_471
+  - first:
+      213: -7305281032542734961
+    second: GraySayHello_472
+  - first:
+      213: -6754105949649139153
+    second: GraySayHello_473
+  - first:
+      213: -4698620816087819476
+    second: GraySayHello_474
+  - first:
+      213: 6600011933528605323
+    second: GraySayHello_475
+  - first:
+      213: 1137522475723574255
+    second: GraySayHello_476
+  - first:
+      213: -8361170496834602560
+    second: GraySayHello_477
+  - first:
+      213: -684096217267647940
+    second: GraySayHello_478
+  - first:
+      213: -1090162229821235364
+    second: GraySayHello_479
+  - first:
+      213: 5310194669629750490
+    second: GraySayHello_480
+  - first:
+      213: -1450326133386351463
+    second: GraySayHello_481
+  - first:
+      213: -1222575379924516643
+    second: GraySayHello_482
+  - first:
+      213: 1892214240246869663
+    second: GraySayHello_483
+  - first:
+      213: -3326250222839829165
+    second: GraySayHello_484
+  - first:
+      213: -2875337182842012389
+    second: GraySayHello_485
+  - first:
+      213: -2401649937851076598
+    second: GraySayHello_486
+  - first:
+      213: -4907402946988939817
+    second: GraySayHello_487
+  - first:
+      213: -880056218721980735
+    second: GraySayHello_488
+  - first:
+      213: 6897877941440393751
+    second: GraySayHello_489
+  - first:
+      213: 203412390292329228
+    second: GraySayHello_490
+  - first:
+      213: 8106455004658620652
+    second: GraySayHello_491
+  - first:
+      213: 4756353980158636937
+    second: GraySayHello_492
+  - first:
+      213: -7714189176598533684
+    second: GraySayHello_493
+  - first:
+      213: -4314689053231588090
+    second: GraySayHello_494
+  - first:
+      213: -4458705639406369957
+    second: GraySayHello_495
+  - first:
+      213: -7086586928609892434
+    second: GraySayHello_496
+  - first:
+      213: -2051870168122100913
+    second: GraySayHello_497
+  - first:
+      213: 3461649381067725120
+    second: GraySayHello_498
+  - first:
+      213: -6261632893132941337
+    second: GraySayHello_499
+  - first:
+      213: 3678598391031175517
+    second: GraySayHello_500
+  - first:
+      213: -6481396408110242263
+    second: GraySayHello_501
+  - first:
+      213: -7961318009954467443
+    second: GraySayHello_502
+  - first:
+      213: 4883262327084876719
+    second: GraySayHello_503
+  - first:
+      213: -5231527638835436919
+    second: GraySayHello_504
+  - first:
+      213: 4858967880801044413
+    second: GraySayHello_505
+  - first:
+      213: -8643565383263169266
+    second: GraySayHello_506
+  - first:
+      213: 8889083927542208975
+    second: GraySayHello_507
+  - first:
+      213: -3734291308525084251
+    second: GraySayHello_508
+  - first:
+      213: 5987861818813502079
+    second: GraySayHello_509
+  - first:
+      213: -6232748715642668722
+    second: GraySayHello_510
+  - first:
+      213: 1103298185285717521
+    second: GraySayHello_511
+  - first:
+      213: 9040879190431018056
+    second: Front_0
+  - first:
+      213: -4617293510232987901
+    second: Front_1
+  - first:
+      213: 3754754863996910684
+    second: Front_2
+  - first:
+      213: -5829380985280236941
+    second: Front_3
+  - first:
+      213: -2074089879795968147
+    second: Front_4
+  - first:
+      213: 1503019042082575633
+    second: Front_5
+  - first:
+      213: 2659299224402268062
+    second: Front_6
+  - first:
+      213: -8426942537259523697
+    second: Front_7
+  - first:
+      213: -1074832263495044978
+    second: Front_8
+  - first:
+      213: -7287945582752137271
+    second: Front_9
+  - first:
+      213: -4726077505641514207
+    second: Front_10
+  - first:
+      213: 1806524451038542486
+    second: Front_11
+  - first:
+      213: -2842654299206228624
+    second: Front_12
+  - first:
+      213: -1863286547234825662
+    second: Front_13
+  - first:
+      213: 4635681405818388303
+    second: Front_14
+  - first:
+      213: -1366337541423995933
+    second: Front_15
+  - first:
+      213: 4785922459002712076
+    second: Front_16
+  - first:
+      213: 3328845450089840389
+    second: Front_17
+  - first:
+      213: -4023000542353664425
+    second: Front_18
+  - first:
+      213: -5920551898563344993
+    second: Front_19
+  - first:
+      213: 1975301472353452847
+    second: Front_20
+  - first:
+      213: 4702247889320397138
+    second: Front_21
+  - first:
+      213: -7145848202197012516
+    second: Front_22
+  - first:
+      213: -3786075599041198823
+    second: Front_23
+  - first:
+      213: 3630182720314359642
+    second: Front_24
+  - first:
+      213: -7614094269515622597
+    second: Front_25
+  - first:
+      213: -2296582001858805215
+    second: Front_26
+  - first:
+      213: 3485155155643550334
+    second: Front_27
+  - first:
+      213: -2494169365588317592
+    second: Front_28
+  - first:
+      213: 6357089864624239909
+    second: Front_29
+  - first:
+      213: 8540702820064015351
+    second: Front_30
+  - first:
+      213: 1476591189208337582
+    second: Front_31
+  - first:
+      213: -4225514318233872803
+    second: Front_32
+  - first:
+      213: -7270530033414814519
+    second: Front_33
+  - first:
+      213: 2649274574032877423
+    second: Front_34
+  - first:
+      213: 467231476389792572
+    second: Front_35
+  - first:
+      213: 6066178271175950543
+    second: Front_36
+  - first:
+      213: -6062190274200728302
+    second: Front_37
+  - first:
+      213: -1050622776040005182
+    second: Front_38
+  - first:
+      213: -4547115500357427753
+    second: Front_39
+  - first:
+      213: -7344866278897203936
+    second: Front_40
+  - first:
+      213: -9040110653991570073
+    second: Front_41
+  - first:
+      213: -3018405772901809100
+    second: Front_42
+  - first:
+      213: 7350623692677017711
+    second: Front_43
+  - first:
+      213: 1941303040310403017
+    second: Front_44
+  - first:
+      213: 7549372304915462811
+    second: Front_45
+  - first:
+      213: -987532320823861983
+    second: Front_46
+  - first:
+      213: -7714685717433090877
+    second: Front_47
+  - first:
+      213: 4045869038646678637
+    second: Front_48
+  - first:
+      213: -6025366877170973661
+    second: Front_49
+  - first:
+      213: -6727884061182317289
+    second: Front_50
+  - first:
+      213: 4011079792379499593
+    second: Front_51
+  - first:
+      213: 1183853165824470514
+    second: Front_52
+  - first:
+      213: -7425676055533081460
+    second: Front_53
+  - first:
+      213: 2964807566271608383
+    second: Front_54
+  - first:
+      213: 8352776250195455732
+    second: Front_55
+  - first:
+      213: -2928587410086022837
+    second: Front_56
+  - first:
+      213: 7158581328129405326
+    second: Front_57
+  - first:
+      213: -3495233833372739932
+    second: Front_58
+  - first:
+      213: -6818704437692790487
+    second: Front_59
+  - first:
+      213: 7866918015331972588
+    second: Front_60
+  - first:
+      213: 8237975822591103688
+    second: Front_61
+  - first:
+      213: -5578228499731403513
+    second: Front_62
+  - first:
+      213: -199203436635312977
+    second: Front_63
+  - first:
+      213: -8369339544440118559
+    second: Front_64
+  - first:
+      213: 5991060831133543172
+    second: Front_65
+  - first:
+      213: -9071361950920264078
+    second: Front_66
+  - first:
+      213: 6901972547378168833
+    second: Front_67
+  - first:
+      213: -4659440554382304175
+    second: Front_68
+  - first:
+      213: -1502116229584106280
+    second: Front_69
+  - first:
+      213: 8223004391383765986
+    second: Front_70
+  - first:
+      213: 8378698562178113970
+    second: Front_71
+  - first:
+      213: -4062701191051778095
+    second: Front_72
+  - first:
+      213: -7319858250354026597
+    second: Front_73
+  - first:
+      213: 2846500653363225131
+    second: Front_74
+  - first:
+      213: -7600216498337797934
+    second: Front_75
+  - first:
+      213: 5568074647520115401
+    second: Front_76
+  - first:
+      213: 269281380219339444
+    second: Front_77
+  - first:
+      213: -3381787411369396345
+    second: Front_78
+  - first:
+      213: -3076813704696704886
+    second: Front_79
+  - first:
+      213: 1866515793668607526
+    second: Front_80
+  - first:
+      213: 9077201630885212174
+    second: Front_81
+  - first:
+      213: 7311375362536712552
+    second: Front_82
+  - first:
+      213: -1029115289209825994
+    second: Front_83
+  - first:
+      213: -1426705021024229410
+    second: Front_84
+  - first:
+      213: 1228849826760333226
+    second: Front_85
+  - first:
+      213: -7515063418829670550
+    second: Front_86
+  - first:
+      213: -184312016172315571
+    second: Front_87
+  - first:
+      213: 5286791577631724424
+    second: Front_88
+  - first:
+      213: -8429194563675650899
+    second: Front_89
+  - first:
+      213: 2323289479822847770
+    second: Front_90
+  - first:
+      213: 8586029038199180663
+    second: Front_91
+  - first:
+      213: 1673949824987337634
+    second: Front_92
+  - first:
+      213: -7893655531041398899
+    second: Front_93
+  - first:
+      213: -1280845751869343815
+    second: Front_94
+  - first:
+      213: 4640559682644688619
+    second: Front_95
+  - first:
+      213: 7734466683754391007
+    second: Front_96
+  - first:
+      213: 4872525523339696524
+    second: Front_97
+  - first:
+      213: 7335757772042033792
+    second: Front_98
+  - first:
+      213: 7366183726304913811
+    second: Front_99
+  - first:
+      213: 2951125966959552843
+    second: Front_100
+  - first:
+      213: -1487049247204692794
+    second: Front_101
+  - first:
+      213: 2922670531952378100
+    second: Front_102
+  - first:
+      213: -293485925773362743
+    second: Front_103
+  - first:
+      213: -7290354265149199998
+    second: Front_104
+  - first:
+      213: -8978038912952281403
+    second: Front_105
+  - first:
+      213: -2672071667132966659
+    second: Front_106
+  - first:
+      213: -554355832864124269
+    second: Front_107
+  - first:
+      213: 7485357004554698773
+    second: Front_108
+  - first:
+      213: -1651452752053088010
+    second: Front_109
+  - first:
+      213: 2068009505428026570
+    second: Front_110
+  - first:
+      213: 2701956631874828512
+    second: Front_111
+  - first:
+      213: -966174000447171990
+    second: Front_112
+  - first:
+      213: -8737307277742098262
+    second: Front_113
+  - first:
+      213: -6597663812560484830
+    second: Front_114
+  - first:
+      213: 6589848072795811094
+    second: Front_115
+  - first:
+      213: 4346088116743413122
+    second: Front_116
+  - first:
+      213: -5557043485112182789
+    second: Front_117
+  - first:
+      213: -1587011466023102812
+    second: Front_118
+  - first:
+      213: 7156563042801207637
+    second: Front_119
+  - first:
+      213: 4289616895538080820
+    second: Front_120
+  - first:
+      213: -7687436641789617433
+    second: Front_121
+  - first:
+      213: 3103707991757284594
+    second: Front_122
+  - first:
+      213: -8980469041753401644
+    second: Front_123
+  - first:
+      213: -8421362566631980406
+    second: Front_124
+  - first:
+      213: -548857631067299566
+    second: Front_125
+  - first:
+      213: -1671352330841109744
+    second: Front_126
+  - first:
+      213: -4621343899979100410
+    second: Front_127
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cacda19b7a77d70800000000000000
+      internalID: 9040879190431018056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307a8d214041cefb0800000000000000
+      internalID: -4617293510232987901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cb43fb7a19b1430800000000000000
+      internalID: 3754754863996910684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37274f711e0e91fa0800000000000000
+      internalID: -5829380985280236941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67578a4e3a5733e0800000000000000
+      internalID: -2074089879795968147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115dafdfadbcbd410800000000000000
+      internalID: 1503019042082575633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f08f51e8ab7e420800000000000000
+      internalID: 2659299224402268062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f816404096c7d0b80800000000000000
+      internalID: -8426942537259523697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80bf3540cd6511f0800000000000000
+      internalID: -1074832263495044978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf7ead0b140cda90800000000000000
+      internalID: -7287945582752137271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bf5476c89996eb0800000000000000
+      internalID: -4726077505641514207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ab536ba60121910800000000000000
+      internalID: 1806524451038542486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0756394d9fcdc88d0800000000000000
+      internalID: -2842654299206228624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24add45e1c64426e0800000000000000
+      internalID: -1863286547234825662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f30bd7daf355040800000000000000
+      internalID: 4635681405818388303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e36428ce3bc90de0800000000000000
+      internalID: -1366337541423995933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00bb6b9e130b6240800000000000000
+      internalID: 4785922459002712076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fb7c4cc4f623e20800000000000000
+      internalID: 3328845450089840389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7565ecd425e6b28c0800000000000000
+      internalID: -4023000542353664425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f950edbaa69f5dda0800000000000000
+      internalID: -5920551898563344993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f230fe7393ea96b10800000000000000
+      internalID: 1975301472353452847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259c5c0ba8db14140800000000000000
+      internalID: 4702247889320397138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfee21abe8d4dc90800000000000000
+      internalID: -7145848202197012516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_23
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915006a5d48257bc0800000000000000
+      internalID: -3786075599041198823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_24
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f391a53fff06230800000000000000
+      internalID: 3630182720314359642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_25
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b371f236a9d455690800000000000000
+      internalID: -7614094269515622597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_26
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12286ad46d6e020e0800000000000000
+      internalID: -2296582001858805215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_27
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a414f1622cd5030800000000000000
+      internalID: 3485155155643550334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_28
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a627a3d2ee26dd0800000000000000
+      internalID: -2494169365588317592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_29
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525f922fc8be83850800000000000000
+      internalID: 6357089864624239909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_30
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3b71ad6fba68670800000000000000
+      internalID: 8540702820064015351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_31
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac0c3ffcd7ed7410800000000000000
+      internalID: 1476591189208337582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56d7548d15fb55c0800000000000000
+      internalID: -4225514318233872803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4408d9473e91b90800000000000000
+      internalID: -7270530033414814519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6734b9403d14c420800000000000000
+      internalID: 2649274574032877423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b48126d80fb7600800000000000000
+      internalID: 467231476389792572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0c2a56ff46f2450800000000000000
+      internalID: 6066178271175950543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d00718016cedba0800000000000000
+      internalID: -6062190274200728302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c16331d6207b61f0800000000000000
+      internalID: -1050622776040005182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_39
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddd5884b8665e0c0800000000000000
+      internalID: -4547115500357427753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_40
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025469bb80bc11a90800000000000000
+      internalID: -7344866278897203936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_41
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765bb9ab1431b8280800000000000000
+      internalID: -9040110653991570073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_42
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434033611f77c16d0800000000000000
+      internalID: -3018405772901809100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_43
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60759f9d49a20660800000000000000
+      internalID: 7350623692677017711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_44
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf561764d4e0fa10800000000000000
+      internalID: 1941303040310403017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_45
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a78afec12c4c860800000000000000
+      internalID: 7549372304915462811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_46
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d931d16949b42f0800000000000000
+      internalID: -987532320823861983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_47
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccfe92d63eefe490800000000000000
+      internalID: -7714685717433090877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6459486470d52830800000000000000
+      internalID: 4045869038646678637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324c1dcbfb8916ca0800000000000000
+      internalID: -6025366877170973661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d273b9711c1a2a0800000000000000
+      internalID: -6727884061182317289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944178ec1d73aa730800000000000000
+      internalID: 4011079792379499593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd60379e24ed6010800000000000000
+      internalID: 1183853165824470514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_53
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ca3dc68f2b2f890800000000000000
+      internalID: -7425676055533081460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f367207f5cc152920800000000000000
+      internalID: 2964807566271608383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_55
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe2831aeb50be370800000000000000
+      internalID: 8352776250195455732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_56
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41342054419b57d0800000000000000
+      internalID: -2928587410086022837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_57
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81b5e64ac3685360800000000000000
+      internalID: 7158581328129405326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_58
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a614ead85f6e7fc0800000000000000
+      internalID: -3495233833372739932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_59
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92901f2e0781f51a0800000000000000
+      internalID: -6818704437692790487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_60
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5bbf41148ec2d60800000000000000
+      internalID: 7866918015331972588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_61
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c29ccd2d5b235270800000000000000
+      internalID: 8237975822591103688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_62
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70dac85fbb62692b0800000000000000
+      internalID: -5578228499731403513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_63
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faca051a7894c3df0800000000000000
+      internalID: -199203436635312977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e26409e6022adb80800000000000000
+      internalID: -8369339544440118559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ba87b7516842350800000000000000
+      internalID: 5991060831133543172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27637662e5c0c1280800000000000000
+      internalID: -9071361950920264078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_67
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10449ffa67bb8cf50800000000000000
+      internalID: 6901972547378168833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c5ef7a087565fb0800000000000000
+      internalID: -4659440554382304175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_69
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc4a4c6f39672be0800000000000000
+      internalID: -1502116229584106280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_70
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e318e63deafd1270800000000000000
+      internalID: 8223004391383765986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_71
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1e3b633fd174470800000000000000
+      internalID: 8378698562178113970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_72
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d76dc6bac26e97c0800000000000000
+      internalID: -4062701191051778095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_73
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b979f6d14b3aa6a90800000000000000
+      internalID: -7319858250354026597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_74
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22e1a8434dc08720800000000000000
+      internalID: 2846500653363225131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_75
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d82388cc5b968690800000000000000
+      internalID: -7600216498337797934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_76
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca7b481466c54d40800000000000000
+      internalID: 5568074647520115401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_77
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2c9941dfdacb300800000000000000
+      internalID: 269281380219339444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_78
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787707f444a7111d0800000000000000
+      internalID: -3381787411369396345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_79
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80df7bbc36fc45d0800000000000000
+      internalID: -3076813704696704886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e0641a93237e910800000000000000
+      internalID: 1866515793668607526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00728b4ac2b8fd70800000000000000
+      internalID: 9077201630885212174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8692b87a729377560800000000000000
+      internalID: 7311375362536712552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_83
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63599b1d819d7b1f0800000000000000
+      internalID: -1029115289209825994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_84
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7a596a753533ce0800000000000000
+      internalID: -1426705021024229410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_85
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7995e1860cd0110800000000000000
+      internalID: 1228849826760333226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_86
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67ff1813a125b790800000000000000
+      internalID: -7515063418829670550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_87
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c8634a231317df0800000000000000
+      internalID: -184312016172315571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_88
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8831442ede47e5940800000000000000
+      internalID: 5286791577631724424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_89
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da48571443c750b80800000000000000
+      internalID: -8429194563675650899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_90
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f2e3bf87bfd3020800000000000000
+      internalID: 2323289479822847770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_91
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d0d056be3b72770800000000000000
+      internalID: 8586029038199180663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_92
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a392323f701b3710800000000000000
+      internalID: 1673949824987337634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_93
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fdafced1a147290800000000000000
+      internalID: -7893655531041398899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_94
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b772cb2395893ee0800000000000000
+      internalID: -1280845751869343815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_95
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee3903d174966040800000000000000
+      internalID: 4640559682644688619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5264c4878565b60800000000000000
+      internalID: 7734466683754391007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89dfa1d520be9340800000000000000
+      internalID: 4872525523339696524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a50e0c3d8ddc560800000000000000
+      internalID: 7335757772042033792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_99
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399eaa44211f93660800000000000000
+      internalID: 7366183726304913811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_100
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b492e046e6184f820800000000000000
+      internalID: 2951125966959552843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_101
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc2ad0a690fc5be0800000000000000
+      internalID: -1487049247204692794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_102
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f006842d596f8820800000000000000
+      internalID: 2922670531952378100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_103
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9b3bffa145debf0800000000000000
+      internalID: -293485925773362743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_104
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289270bfb6573da90800000000000000
+      internalID: -7290354265149199998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_105
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c658d52d29976380800000000000000
+      internalID: -8978038912952281403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_106
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8572ad9f4eaead0800000000000000
+      internalID: -2672071667132966659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_107
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392d7fe9e488e48f0800000000000000
+      internalID: -554355832864124269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_108
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5100779598451e760800000000000000
+      internalID: 7485357004554698773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_109
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0d886c87cd419e0800000000000000
+      internalID: -1651452752053088010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_110
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac43b2b30bb03bc10800000000000000
+      internalID: 2068009505428026570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_111
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8f869bd374f7520800000000000000
+      internalID: 2701956631874828512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62d0289dd57792f0800000000000000
+      internalID: -966174000447171990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa83fb8b259deb680800000000000000
+      internalID: -8737307277742098262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_114
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22602e8e7b36074a0800000000000000
+      internalID: -6597663812560484830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_115
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d69ce58e7d37b50800000000000000
+      internalID: 6589848072795811094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_116
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d99099d18605c30800000000000000
+      internalID: 4346088116743413122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_117
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf75d7c846a61e2b0800000000000000
+      internalID: -5557043485112182789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_118
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a69831ea7dc9f9e0800000000000000
+      internalID: -1587011466023102812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_119
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559cada9b28315360800000000000000
+      internalID: 7156563042801207637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_120
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43caf01d6d7c78b30800000000000000
+      internalID: 4289616895538080820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_121
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eadec4aa1db05590800000000000000
+      internalID: -7687436641789617433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_122
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4eb3f69f5921b20800000000000000
+      internalID: 3103707991757284594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_123
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d655e1bcf6fe5380800000000000000
+      internalID: -8980469041753401644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_124
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82012b2d5f412b80800000000000000
+      internalID: -8421362566631980406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_125
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211a8fb74e01268f0800000000000000
+      internalID: -548857631067299566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_126
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bc1b909e92ec8e0800000000000000
+      internalID: -1671352330841109744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_127
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fc3d83530bddfb0800000000000000
+      internalID: -4621343899979100410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
