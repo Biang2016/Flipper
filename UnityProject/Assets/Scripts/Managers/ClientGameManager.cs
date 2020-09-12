@@ -89,9 +89,27 @@ public class ClientGameManager : MonoSingleton<ClientGameManager>
 
     private void Update()
     {
+        if (Input.GetKeyUp(KeyCode.F9))
+        {
+            LevelManager.Instance.LevelPass();
+            return;
+        }
+
         if (Input.GetKeyUp(KeyCode.F10))
         {
             SceneManager.LoadScene(0);
+            return;
+        }
+
+        if (Input.GetKeyUp(KeyCode.F11))
+        {
+            LevelManager.Instance.LevelFailed();
+            return;
+        }
+
+        if (Input.GetKeyUp(KeyCode.F12))
+        {
+            RankManager.Instance.DeleteRecords();
             return;
         }
 

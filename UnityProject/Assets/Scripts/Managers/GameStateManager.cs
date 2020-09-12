@@ -2,7 +2,7 @@
 
 public class GameStateManager : TSingletonBaseManager<GameStateManager>
 {
-    private GameState state = GameState.Default;
+    private GameState state = GameState.Waiting;
 
     public void SetState(GameState newState)
     {
@@ -62,7 +62,7 @@ public class GameStateManager : TSingletonBaseManager<GameStateManager>
 
 public enum GameState
 {
-    Default,
+    Waiting,
     Playing,
     Win,
     ESC,

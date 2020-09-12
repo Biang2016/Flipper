@@ -1,6 +1,7 @@
 ﻿using System;
 using BiangStudio.GameDataFormat.Grid;
 using BiangStudio.ObjectPool;
+using Sirenix.OdinInspector;
 using UnityEngine;
 
 public class Fragment : PoolObject
@@ -11,6 +12,7 @@ public class Fragment : PoolObject
         Anim.ResetTrigger("TurnToFront");
         Anim.ResetTrigger("TurnToBack");
         Anim.SetTrigger("Reset");
+        FragmentCollider.OnRecycled();
     }
 
     public FragmentCollider FragmentCollider;
@@ -27,6 +29,7 @@ public class Fragment : PoolObject
     private bool front;
     public FragmentConfig Config;
 
+    [ShowInInspector]
     public bool Front
     {
         get { return front; }
@@ -43,11 +46,11 @@ public class Fragment : PoolObject
         }
     }
 
-    public virtual void FlipFragment()
+    public virtual void FlipFragment(bool forceFlip)
     {
         if (GameStateManager.Instance.GetState() == GameState.Playing)
         {
-            if (Front && Config.KeepFront) return;
+            if (!forceFlip && Front && Config.KeepFront) return;
             Front = !Front;
             LevelManager.Instance.FragmentFrontMatrix[GridPos.z, GridPos.x] = Front;
         }
@@ -62,7 +65,7 @@ public class Fragment : PoolObject
         GridPos = gp;
         this.front = front;
         Config = fragmentConfig;
-        FragmentCollider.BoxCollider.size = new Vector3(fragmentConfig.Width, fragmentConfig.Height, 0) * LevelManager.Instance.CurrentLevelGridSize + Vector3.forward * 0.1f;
+        FragmentCollider.BoxCollider.size = new Vector3(fragmentConfig.Size, fragmentConfig.Size, 0) * LevelManager.Instance.CurrentLevelGridSize + Vector3.forward * 0.1f;
     }
 }
 
@@ -70,6 +73,6 @@ public class Fragment : PoolObject
 public struct FragmentConfig
 {
     public bool KeepFront;
-    public int Width;
-    public int Height;
+    public int Size;
+    public bool HoverFlipBack;
 }

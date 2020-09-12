@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using BiangStudio;
 using BiangStudio.GameDataFormat;
@@ -39,7 +40,6 @@ public class LevelManager : MonoSingleton<LevelManager>
             if (currentFrontCount != value)
             {
                 currentFrontCount = value;
-                Debug.Log($"Front {currentFrontCount}");
                 if (currentFrontCount == currentSpriteTotalCount)
                 {
                     LevelPass();
@@ -57,7 +57,7 @@ public class LevelManager : MonoSingleton<LevelManager>
     {
         RandomSeedMultiplier = (uint) (DateTime.Now.Ticks % 100);
         LoadLevel(0);
-        GameStateManager.Instance.SetState(GameState.Playing);
+        UIManager.Instance.GetBaseUIForm<HUDPanel>().WholeGameTimeTick = 0;
     }
 
     internal bool[,] FragmentFrontMatrix;
@@ -86,6 +86,7 @@ public class LevelManager : MonoSingleton<LevelManager>
     private void LoadLevel(LevelConfig levelConfig)
     {
         ClearFragments();
+        GameStateManager.Instance.SetState(GameState.Playing);
         if (LevelRetryTimeRecordDict.ContainsKey(levelConfig.LevelName))
         {
             LevelRetryTimeRecordDict[levelConfig.LevelName] += 1;
@@ -114,7 +115,7 @@ public class LevelManager : MonoSingleton<LevelManager>
 
         CurrentFrontCount = 0;
         currentSpriteTotalCount = 0;
-        UIManager.Instance.ShowUIForms<HUDPanel>().Initialize(levelConfig.TickTimer);
+        UIManager.Instance.ShowUIForms<HUDPanel>().Initialize(levelConfig.TickTimer, levelConfig.ShowFlipItText);
         currentLevelName = levelConfig.LevelName;
         currentWidth = levelConfig.Width;
         currentHeight = levelConfig.Height;
@@ -138,7 +139,7 @@ public class LevelManager : MonoSingleton<LevelManager>
             for (int x = 0; x < levelConfig.Width - 2; x++)
             {
                 bool generate = currentLevel.Grid3x3_Probability.Probable(sRandom);
-                if (generate) GenerateSquareFragment(levelConfig, x, y, 3, 3, frontSprites, backSprites);
+                if (generate) GenerateSquareFragment(levelConfig, x, y, 3, frontSprites, backSprites);
             }
         }
 
@@ -147,7 +148,7 @@ public class LevelManager : MonoSingleton<LevelManager>
             for (int x = 0; x < levelConfig.Width - 1; x++)
             {
                 bool generate = currentLevel.Grid2x2_Probability.Probable(sRandom);
-                if (generate) GenerateSquareFragment(levelConfig, x, y, 2, 2, frontSprites, backSprites);
+                if (generate) GenerateSquareFragment(levelConfig, x, y, 2, frontSprites, backSprites);
             }
         }
 
@@ -155,26 +156,24 @@ public class LevelManager : MonoSingleton<LevelManager>
         {
             for (int x = 0; x < levelConfig.Width; x++)
             {
-                GenerateSquareFragment(levelConfig, x, y, 1, 1, frontSprites, backSprites);
+                GenerateSquareFragment(levelConfig, x, y, 1, frontSprites, backSprites);
             }
         }
     }
 
-    private void GenerateSquareFragment(LevelConfig levelConfig, int x, int y, int width, int height, Sprite[] frontSprites, Sprite[] backSprites)
+    private void GenerateSquareFragment(LevelConfig levelConfig, int x, int y, int size, Sprite[] frontSprites, Sprite[] backSprites)
     {
-        for (int _y = y; _y < y + height; _y++)
-        for (int _x = x; _x < x + width; _x++)
+        for (int _y = y; _y < y + size; _y++)
+        for (int _x = x; _x < x + size; _x++)
             if (FragmentMatrix[_y, _x] != null)
                 return;
 
         SquareFragment fragment = GameObjectPoolManager.Instance.PoolDict[GameObjectPoolManager.PrefabNames.SquareFragment].AllocateGameObject<SquareFragment>(FragmentRoot);
-        FragmentConfig fragmentConfig = levelConfig.DefaultFragmentConfig;
-        fragmentConfig.Width = width;
-        fragmentConfig.Height = height;
+        FragmentConfig fragmentConfig = levelConfig.Fragment_Configs[size - 1];
 
         Sprite sprite_front = null;
         Sprite sprite_back = null;
-        if (width == 1 && height == 1)
+        if (size == 1)
         {
             sprite_front = frontSprites[y * levelConfig.Width + x];
             sprite_back = backSprites[y * levelConfig.Width + x];
@@ -182,20 +181,20 @@ public class LevelManager : MonoSingleton<LevelManager>
         else
         {
             Sprite startSprite_front = frontSprites[y * levelConfig.Width + x];
-            Sprite endSprite_front = frontSprites[(y + height - 1) * levelConfig.Width + (x + width - 1)];
-            sprite_front = CombineSpriteUtils.CombineSprite(width, height, startSprite_front, endSprite_front);
+            Sprite endSprite_front = frontSprites[(y + size - 1) * levelConfig.Width + (x + size - 1)];
+            sprite_front = CombineSpriteUtils.CombineSprite(size, size, startSprite_front, endSprite_front);
 
             Sprite startSprite_back = backSprites[y * levelConfig.Width + x];
-            Sprite endSprite_back = backSprites[(y + height - 1) * levelConfig.Width + (x + width - 1)];
-            sprite_back = CombineSpriteUtils.CombineSprite(width, height, startSprite_back, endSprite_back);
+            Sprite endSprite_back = backSprites[(y + size - 1) * levelConfig.Width + (x + size - 1)];
+            sprite_back = CombineSpriteUtils.CombineSprite(size, size, startSprite_back, endSprite_back);
         }
 
         fragment.Initialize(sprite_front, sprite_back, new GridPos(x, y), false, fragmentConfig);
         Vector3 center = new Vector3((levelConfig.Width) / 2f * CurrentLevelGridSize, -(levelConfig.Height) / 2f * CurrentLevelGridSize, 0);
-        fragment.transform.position = new Vector3((x + width / 2f) * CurrentLevelGridSize, (-y - height / 2f) * CurrentLevelGridSize) - center;
+        fragment.transform.position = new Vector3((x + size / 2f) * CurrentLevelGridSize, (-y - size / 2f) * CurrentLevelGridSize) - center;
 
-        for (int _y = y; _y < y + height; _y++)
-        for (int _x = x; _x < x + width; _x++)
+        for (int _y = y; _y < y + size; _y++)
+        for (int _x = x; _x < x + size; _x++)
         {
             FragmentFrontMatrix[_y, _x] = false;
             FragmentMatrix[_y, _x] = fragment;
@@ -243,6 +242,18 @@ public class LevelManager : MonoSingleton<LevelManager>
     [GUIColor(0, 1, 1)]
     public void LevelPass()
     {
+        StartCoroutine(Co_LevelPass());
+    }
+
+    IEnumerator Co_LevelPass()
+    {
+        GameStateManager.Instance.SetState(GameState.Waiting);
+        if (currentLevel.ShowFlipItText)
+        {
+            UIManager.Instance.GetBaseUIForm<HUDPanel>().ShowCoolText();
+            yield return new WaitForSeconds(2f);
+        }
+
         currentLevelIndex++;
         if (currentLevelIndex < LevelList.Count)
         {
@@ -261,12 +272,21 @@ public class LevelManager : MonoSingleton<LevelManager>
     {
         UIManager.Instance.GetBaseUIForm<HUDPanel>().GameWin();
         GameStateManager.Instance.SetState(GameState.Win);
+        RankManager.Instance.AddRecord(1);
     }
 
     [Button("Cheat_LevelFailed", ButtonSizes.Large)]
     [GUIColor(1, 0, 0)]
     public void LevelFailed()
     {
+        StartCoroutine(Co_LevelFailed());
+    }
+
+    IEnumerator Co_LevelFailed()
+    {
+        GameStateManager.Instance.SetState(GameState.Waiting);
+        UIManager.Instance.GetBaseUIForm<HUDPanel>().ShowTryAgainText();
+        yield return new WaitForSeconds(0.8f);
         LoadLevel(currentLevel.LoseGoToLevelName);
     }
 
@@ -277,10 +297,11 @@ public class LevelManager : MonoSingleton<LevelManager>
         public string LoseGoToLevelName;
         public int Width;
         public int Height;
-        public FragmentConfig DefaultFragmentConfig;
+        public FragmentConfig[] Fragment_Configs;
         public int TickTimer;
         public int GridSize;
         public uint RandomSeed;
+        public bool ShowFlipItText;
 
         [Range(0, 1)]
         public float Grid2x2_Probability;

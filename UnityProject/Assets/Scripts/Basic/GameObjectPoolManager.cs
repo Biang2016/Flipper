@@ -10,11 +10,13 @@ public class GameObjectPoolManager : TSingletonBaseManager<GameObjectPoolManager
     public enum PrefabNames
     {
         SquareFragment,
+        ScoreRow,
     }
 
     public Dictionary<PrefabNames, int> PoolConfigs = new Dictionary<PrefabNames, int>
     {
         {PrefabNames.SquareFragment, 128},
+        {PrefabNames.ScoreRow, 6},
     };
 
     public Dictionary<PrefabNames, int> PoolWarmUpDict = new Dictionary<PrefabNames, int>
