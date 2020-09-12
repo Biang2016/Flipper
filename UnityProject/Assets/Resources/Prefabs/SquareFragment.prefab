@@ -179,6 +179,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   IsRecycled: 0
+  FragmentCollider: {fileID: 1850789131088304569}
   FrontSpriteRenderer: {fileID: 1850789131887919334}
   BackSpriteRenderer: {fileID: 1850789130407136982}
   Anim: {fileID: 1850789130760642288}
@@ -187,6 +188,8 @@ MonoBehaviour:
     z: 0
   Config:
     KeepFront: 0
+    Width: 0
+    Height: 0
 --- !u!1 &1850789131088304570
 GameObject:
   m_ObjectHideFlags: 0

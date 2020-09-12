@@ -13,6 +13,8 @@ public class Fragment : PoolObject
         Anim.SetTrigger("Reset");
     }
 
+    public FragmentCollider FragmentCollider;
+
     public SpriteRenderer FrontSpriteRenderer;
     public SpriteRenderer BackSpriteRenderer;
 
@@ -60,6 +62,7 @@ public class Fragment : PoolObject
         GridPos = gp;
         this.front = front;
         Config = fragmentConfig;
+        FragmentCollider.BoxCollider.size = new Vector3(fragmentConfig.Width, fragmentConfig.Height, 0) * LevelManager.Instance.CurrentLevelGridSize + Vector3.forward * 0.1f;
     }
 }
 
@@ -67,4 +70,6 @@ public class Fragment : PoolObject
 public struct FragmentConfig
 {
     public bool KeepFront;
+    public int Width;
+    public int Height;
 }

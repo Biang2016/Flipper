@@ -6,6 +6,7 @@ using System.Linq;
 using System.Net;
 using System.Net.Sockets;
 using System.Reflection;
+using System.Runtime.InteropServices.WindowsRuntime;
 using System.Text;
 using System.Text.RegularExpressions;
 using BiangStudio.GameDataFormat;
@@ -603,6 +604,11 @@ namespace BiangStudio
             {
                 return null;
             }
+        }
+
+        public static bool Probable(this float pr, SRandom sRandom)
+        {
+            return sRandom.Range(0, 100) < pr * 100f;
         }
     }
 }

@@ -372,6 +372,106 @@ PrefabInstance:
       propertyPath: LevelList.Array.data[3].GridSize
       value: 128
       objectReference: {fileID: 0}
+    - target: {fileID: 6130885413437225765, guid: 776f29a684a9a412eb9b5171aa4742bd,
+        type: 3}
+      propertyPath: LevelList.Array.data[0].DefaultFragmentConfig.Width
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6130885413437225765, guid: 776f29a684a9a412eb9b5171aa4742bd,
+        type: 3}
+      propertyPath: LevelList.Array.data[0].DefaultFragmentConfig.Height
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6130885413437225765, guid: 776f29a684a9a412eb9b5171aa4742bd,
+        type: 3}
+      propertyPath: LevelList.Array.data[1].DefaultFragmentConfig.Width
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6130885413437225765, guid: 776f29a684a9a412eb9b5171aa4742bd,
+        type: 3}
+      propertyPath: LevelList.Array.data[1].DefaultFragmentConfig.Height
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6130885413437225765, guid: 776f29a684a9a412eb9b5171aa4742bd,
+        type: 3}
+      propertyPath: LevelList.Array.data[2].DefaultFragmentConfig.Width
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6130885413437225765, guid: 776f29a684a9a412eb9b5171aa4742bd,
+        type: 3}
+      propertyPath: LevelList.Array.data[2].DefaultFragmentConfig.Height
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6130885413437225765, guid: 776f29a684a9a412eb9b5171aa4742bd,
+        type: 3}
+      propertyPath: LevelList.Array.data[3].DefaultFragmentConfig.Width
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6130885413437225765, guid: 776f29a684a9a412eb9b5171aa4742bd,
+        type: 3}
+      propertyPath: LevelList.Array.data[3].DefaultFragmentConfig.Height
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6130885413437225765, guid: 776f29a684a9a412eb9b5171aa4742bd,
+        type: 3}
+      propertyPath: LevelList.Array.data[2].Grid2x2_Probability
+      value: 0.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 6130885413437225765, guid: 776f29a684a9a412eb9b5171aa4742bd,
+        type: 3}
+      propertyPath: LevelList.Array.data[0].Grid2x2_Probability
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6130885413437225765, guid: 776f29a684a9a412eb9b5171aa4742bd,
+        type: 3}
+      propertyPath: LevelList.Array.data[2].Grid3x3_Probability
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6130885413437225765, guid: 776f29a684a9a412eb9b5171aa4742bd,
+        type: 3}
+      propertyPath: LevelList.Array.data[3].Grid2x2_Probability
+      value: 0.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 6130885413437225765, guid: 776f29a684a9a412eb9b5171aa4742bd,
+        type: 3}
+      propertyPath: LevelList.Array.data[0].LoseGoToLevelName
+      value: Level1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6130885413437225765, guid: 776f29a684a9a412eb9b5171aa4742bd,
+        type: 3}
+      propertyPath: LevelList.Array.data[1].LoseGoToLevelName
+      value: Level1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6130885413437225765, guid: 776f29a684a9a412eb9b5171aa4742bd,
+        type: 3}
+      propertyPath: LevelList.Array.data[2].LoseGoToLevelName
+      value: Level2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6130885413437225765, guid: 776f29a684a9a412eb9b5171aa4742bd,
+        type: 3}
+      propertyPath: LevelList.Array.data[3].LoseGoToLevelName
+      value: Level2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6130885413437225765, guid: 776f29a684a9a412eb9b5171aa4742bd,
+        type: 3}
+      propertyPath: LevelList.Array.data[0].RandomSeed
+      value: 111
+      objectReference: {fileID: 0}
+    - target: {fileID: 6130885413437225765, guid: 776f29a684a9a412eb9b5171aa4742bd,
+        type: 3}
+      propertyPath: LevelList.Array.data[1].RandomSeed
+      value: 111
+      objectReference: {fileID: 0}
+    - target: {fileID: 6130885413437225765, guid: 776f29a684a9a412eb9b5171aa4742bd,
+        type: 3}
+      propertyPath: LevelList.Array.data[2].RandomSeed
+      value: 222
+      objectReference: {fileID: 0}
+    - target: {fileID: 6130885413437225765, guid: 776f29a684a9a412eb9b5171aa4742bd,
+        type: 3}
+      propertyPath: LevelList.Array.data[3].RandomSeed
+      value: 222
+      objectReference: {fileID: 0}
     - target: {fileID: 6456424627518213110, guid: 776f29a684a9a412eb9b5171aa4742bd,
         type: 3}
       propertyPath: m_BlockingMask.m_Bits
