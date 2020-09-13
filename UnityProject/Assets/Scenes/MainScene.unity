@@ -670,7 +670,7 @@ PrefabInstance:
     - target: {fileID: 6130885413437225765, guid: 776f29a684a9a412eb9b5171aa4742bd,
         type: 3}
       propertyPath: LevelList.Array.data[5].LoseGoToLevelName
-      value: Level2
+      value: Level2_RedHello_Beach
       objectReference: {fileID: 0}
     - target: {fileID: 6130885413437225765, guid: 776f29a684a9a412eb9b5171aa4742bd,
         type: 3}
@@ -840,7 +840,7 @@ PrefabInstance:
     - target: {fileID: 6130885413437225765, guid: 776f29a684a9a412eb9b5171aa4742bd,
         type: 3}
       propertyPath: LevelList.Array.data[7].LoseGoToLevelName
-      value: Level3
+      value: Level3_Fuji
       objectReference: {fileID: 0}
     - target: {fileID: 6130885413437225765, guid: 776f29a684a9a412eb9b5171aa4742bd,
         type: 3}
@@ -1030,7 +1030,7 @@ PrefabInstance:
     - target: {fileID: 6130885413437225765, guid: 776f29a684a9a412eb9b5171aa4742bd,
         type: 3}
       propertyPath: LevelList.Array.data[4].Fragment_Configs.Array.data[1].KeepFront
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6130885413437225765, guid: 776f29a684a9a412eb9b5171aa4742bd,
         type: 3}
@@ -1040,7 +1040,7 @@ PrefabInstance:
     - target: {fileID: 6130885413437225765, guid: 776f29a684a9a412eb9b5171aa4742bd,
         type: 3}
       propertyPath: LevelList.Array.data[4].Fragment_Configs.Array.data[2].KeepFront
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6130885413437225765, guid: 776f29a684a9a412eb9b5171aa4742bd,
         type: 3}
@@ -1090,7 +1090,7 @@ PrefabInstance:
     - target: {fileID: 6130885413437225765, guid: 776f29a684a9a412eb9b5171aa4742bd,
         type: 3}
       propertyPath: LevelList.Array.data[6].Fragment_Configs.Array.data[1].KeepFront
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6130885413437225765, guid: 776f29a684a9a412eb9b5171aa4742bd,
         type: 3}
@@ -1100,7 +1100,7 @@ PrefabInstance:
     - target: {fileID: 6130885413437225765, guid: 776f29a684a9a412eb9b5171aa4742bd,
         type: 3}
       propertyPath: LevelList.Array.data[6].Fragment_Configs.Array.data[2].KeepFront
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6130885413437225765, guid: 776f29a684a9a412eb9b5171aa4742bd,
         type: 3}
@@ -1140,7 +1140,7 @@ PrefabInstance:
     - target: {fileID: 6130885413437225765, guid: 776f29a684a9a412eb9b5171aa4742bd,
         type: 3}
       propertyPath: LevelList.Array.data[6].Fragment_Configs.Array.data[2].HoverFlipBack
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6130885413437225765, guid: 776f29a684a9a412eb9b5171aa4742bd,
         type: 3}

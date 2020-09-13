@@ -205,15 +205,18 @@ public class LevelManager : MonoSingleton<LevelManager>
 
     public void FixedUpdate()
     {
-        Ray ray = CameraManager.Instance.MainCamera.ScreenPointToRay(Input.mousePosition);
-        float rayX = Mathf.Clamp(ray.origin.x, currentPicRect.xMin + 0.1f, currentPicRect.xMax - 0.1f);
-        float rayY = Mathf.Clamp(ray.origin.y, currentPicRect.yMin + 0.1f, currentPicRect.yMax - 0.1f);
-        ray.origin = new Vector3(rayX, rayY, ray.origin.z);
-        Debug.DrawRay(ray.origin, ray.direction, Color.red, 0.1f);
-        if (Physics.Raycast(ray, out RaycastHit hit, 1000, LayerManager.Instance.LayerMask_Fragment))
+        if (GameStateManager.Instance.GetState() == GameState.Playing)
         {
-            FragmentCollider fc = hit.collider.gameObject.GetComponent<FragmentCollider>();
-            fc?.MouseHover();
+            Ray ray = CameraManager.Instance.MainCamera.ScreenPointToRay(Input.mousePosition);
+            float rayX = Mathf.Clamp(ray.origin.x, currentPicRect.xMin + 0.1f, currentPicRect.xMax - 0.1f);
+            float rayY = Mathf.Clamp(ray.origin.y, currentPicRect.yMin + 0.1f, currentPicRect.yMax - 0.1f);
+            ray.origin = new Vector3(rayX, rayY, ray.origin.z);
+            Debug.DrawRay(ray.origin, ray.direction, Color.red, 0.1f);
+            if (Physics.Raycast(ray, out RaycastHit hit, 1000, LayerManager.Instance.LayerMask_Fragment))
+            {
+                FragmentCollider fc = hit.collider.gameObject.GetComponent<FragmentCollider>();
+                fc?.MouseHover();
+            }
         }
     }
 
