@@ -1,0 +1,16 @@
+{
+"companyName": "BiangStudio",
+"productName": "Flipper",
+"productVersion": "1.0",
+"dataUrl": "Flipper.data.unityweb",
+"wasmCodeUrl": "Flipper.wasm.code.unityweb",
+"wasmFrameworkUrl": "Flipper.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
